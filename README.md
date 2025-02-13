@@ -1,16 +1,44 @@
-## Hi there 👋
+# Matheus Renesto
 
-<!--
-**MatheusRenesto/MatheusRenesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Dev iniciante`**
 
-Here are some ideas to get you started:
+Me chamo Matheus Renesto, tenho 18 anos, e estou fazendo faculdade de ciência da computação, estou estudando programação, e quero me tornar um desenvolvedor back-end, que é onde me encontrei nessa área, sou muito dedicado ao que me proponho a fazer, então vou continuar estudando e trabalhando até chegar onde quero estar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🤖 Linguagens e Tecnologias (em aprendizado)
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
