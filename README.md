@@ -2,7 +2,7 @@
 
 **`Dev iniciante`**
 
-Me chamo Matheus Renesto, tenho 18 anos, e estou fazendo faculdade de ciência da computação, estou estudando programação, e quero me tornar um desenvolvedor back-end, que é onde me encontrei nessa área, sou muito dedicado ao que me proponho a fazer, então vou continuar estudando e trabalhando até chegar onde quero estar
+Me chamo Matheus Renesto, tenho 19 anos, e sou um dev iniciante
 
 
 ### 🤖 Linguagens e Tecnologias (em aprendizado)
