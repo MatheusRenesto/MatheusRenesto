@@ -5,7 +5,7 @@
 i like games, code and drawing
 
 
-### 🌕 Programming languages 
+### 👾 Programming languages 
 
 <img 
     align="left" 
