@@ -1,8 +1,8 @@
 # Matheus Renesto
 
-**`Dev iniciante`**
+**`Dev`**
 
-Me chamo Matheus Renesto, tenho 19 anos, e sou um dev iniciante
+i like games, code and drawing
 
 
 ### 🤖 Linguagens e Tecnologias (em aprendizado)
