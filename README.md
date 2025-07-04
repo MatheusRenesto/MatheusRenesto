@@ -5,7 +5,7 @@
 i like games, code and drawing
 
 
-### 🤖 Linguagens e Tecnologias (em aprendizado)
+### 🌕 Programming languages 
 
 <img 
     align="left" 
