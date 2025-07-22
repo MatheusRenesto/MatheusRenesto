@@ -9,7 +9,6 @@
 
 ### 👾 Programming languages 
 
-<motion.div>oi<motion.div/>
 
 <img 
     align="left" 
