@@ -1,3 +1,5 @@
+import { motion } from "framer-motion"
+
 # m.renest0
 
 **`Dev`**
@@ -6,6 +8,8 @@ i like games, code and drawing
 
 
 ### 👾 Programming languages 
+
+<motion.div>oi<motion.div/>
 
 <img 
     align="left" 
